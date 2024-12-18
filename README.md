@@ -21,5 +21,10 @@ roslaunch astar_path_planner astar_planner.launch
 ```
 编译无报错、rviz显示随机生成圆柱障碍物和绿色直线初始路径时成功
 ### 结果展示
+如Result.md所示。
+A\*算法  
+![Image text](https://github.com/Khansakura/ZJU_TrajectoryHomework/blob/main/png/Astar.jpg)  
+优化的双向A\*算法  
+![Image text](https://github.com/Khansakura/ZJU_TrajectoryHomework/blob/main/png/ImprovedAstar.jpg)  
 ......（待修改）
 
