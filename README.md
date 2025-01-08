@@ -27,6 +27,6 @@ A\*算法
 优化的双向A\*算法  
 ![Image text](https://github.com/Khansakura/ZJU_TrajectoryHomework/blob/main/png/ImprovedAstar.jpg)  
 六阶多项式
-![Image text](https://github.com/Khansakura/ZJU_TrajectoryHomework/blob/main/png/1.jpg)  
+![Image text](https://github.com/Khansakura/ZJU_TrajectoryHomework/blob/main/png/1.png)  
 三阶贝塞尔
-![Image text](https://github.com/Khansakura/ZJU_TrajectoryHomework/blob/main/png/2.jpg)  
+![Image text](https://github.com/Khansakura/ZJU_TrajectoryHomework/blob/main/png/2.png)  
